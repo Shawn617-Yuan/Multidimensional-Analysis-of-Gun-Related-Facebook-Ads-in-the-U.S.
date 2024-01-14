@@ -15,7 +15,7 @@ This project delves into an exhaustive analysis of gun-related advertisements on
 - Demographic Targeting Trends
 - Regional Disparities in Ad Spend and Gun Violence Incidents
 - Influence of Specific Legislation on Advertisement Activity
-**Tools Used:** Hadoop, Spark (DATA7201 cluster), Tableau for data visualization, and Pandas for data preprocessing.
+**Tools Used:** Hadoop, Spark (AWS cluster), Tableau for data visualization, and Pandas for data preprocessing.
 
 ## Additional Data Sets
 **Gun Violence Dataset:** Provides statistics on gun-related incidents in the U.S.
